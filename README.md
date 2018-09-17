@@ -1,2 +1,2 @@
-# CTF-image
+# CTF-image for write-up
 
